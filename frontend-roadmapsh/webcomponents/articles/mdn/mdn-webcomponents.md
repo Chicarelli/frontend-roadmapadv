@@ -79,7 +79,10 @@ customElements.define('word-count', WordCount, {extends: 'p'});
 ```html
 <!-- For customized built-int element -->
 <p is="word-count"></p>
+<!-- <word-count></word-count> will not work if it's a custom built in element. -->
 
 <!-- or autonomous custom element -->
 <popup-info></popup-info>
 ```
+
+TODO: Custom states and custom state pseudo-class CSS selectors
