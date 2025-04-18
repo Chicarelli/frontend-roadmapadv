@@ -10,3 +10,7 @@ Web components:
 Frontend performance:
 
 [ ] - https://web.dev/learn/performance/welcome
+
+
+PWA: 
+[x] - https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/
