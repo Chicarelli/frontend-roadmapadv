@@ -17,5 +17,7 @@ PWA:
 
 Micro-frontends
 [X] - https://medium.com/@lorenamelor/micro-frontends-ac0e5d87582a
-[ ] - https://www.youtube.com/watch?v=gcztgrI-MlM - In progress
+[X] - https://www.youtube.com/watch?v=gcztgrI-MlM
 [ ] - https://roadmap.sh/r/micro-frontend-roadmap
+[ ] - https://single-spa.js.org/
+[ ] - https://micro-frontends.org/
